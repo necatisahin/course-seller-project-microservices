@@ -2,8 +2,8 @@
 
 
 ## Postman API Collections
-https://documenter.getpostman.com/view/22927966/VUqpscfr, 
-https://www.getpostman.com/collections/678062dc9ed3bda4a3e0
+- https://documenter.getpostman.com/view/22927966/VUqpscfr, 
+- https://www.getpostman.com/collections/678062dc9ed3bda4a3e0
 
 # Postman API Tests
 
@@ -16,14 +16,14 @@ Docker Tests
 
 ## Tech Stack
 
-Java 8
-Spring Boot
-Angular,
-Eureka Discovery Client
-Server
-Hibernate
-MySQL
-Router
+- Java 8
+- Spring Boot
+- Angular
+- Eureka Discovery Client
+- Server
+- Hibernate
+- MySQL
+- Router
 
 
 ## Docker
@@ -33,8 +33,5 @@ docker run -d --name garage -p 8080:8080 necatisahiin/garage-automated-ticketing
 
 docker logs -f garage
 
-## Swagger
-
-Swagger : [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
 
 ```
