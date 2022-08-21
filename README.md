@@ -2,7 +2,7 @@
 
 
 ## Postman API Collections
-- https://documenter.getpostman.com/view/22927966/VUqpscfr, 
+- https://documenter.getpostman.com/view/22927966/VUqpscfr
 - https://www.getpostman.com/collections/678062dc9ed3bda4a3e0
 
 # Postman API Tests
