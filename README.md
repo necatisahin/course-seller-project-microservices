@@ -19,10 +19,10 @@
 # Postman API Tests
 
 Local Tests
-![Postman](https://user-images.githubusercontent.com/17224549/159177131-7ebebbe9-de12-4d3a-be3e-f3744115a41d.gif)
 
-Docker Tests
-![Docker](https://user-images.githubusercontent.com/17224549/159177174-36af4969-800f-47c1-b573-c1d12c24d06c.gif)
+![Course Seller Project](https://user-images.githubusercontent.com/17224549/186480510-681a8b31-009d-4658-821d-59f7684d5124.gif)
+![Course Seller Project Front End Angular](https://user-images.githubusercontent.com/17224549/186480522-8d23f81e-b661-4c5f-bf47-68d9dff6c881.gif)
+
 
 
 
