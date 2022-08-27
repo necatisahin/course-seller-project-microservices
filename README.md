@@ -4,6 +4,9 @@
 
 - Java 8
 - Spring Boot
+- Spring Data
+- Spring Security ( JWT - Basic Authentication - Authorization )
+- Lombok
 - Angular
 - Eureka Discovery Client
 - Server
