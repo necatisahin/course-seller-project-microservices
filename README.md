@@ -12,7 +12,6 @@
 - Server
 - Hibernate
 - MySQL
-- Router
 
 
 ## Postman API Collections
