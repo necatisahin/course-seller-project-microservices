@@ -1,5 +1,7 @@
 # Course Seller Project Microservices
 
+![drawio](https://user-images.githubusercontent.com/17224549/192118346-3be25925-36ba-4469-8f04-0e405232ba68.png)
+
 ## Tech Stack
 
 - Java 8
