@@ -1,6 +1,6 @@
 # Course Seller Project Microservices
 
-![drwaio2](https://user-images.githubusercontent.com/17224549/192118369-4790d517-6329-4178-8144-75c487ee4297.png)
+![drwaio3](https://user-images.githubusercontent.com/17224549/192118398-2a8295c5-41f3-4f47-9574-e94c16f7fa25.png)
 
 ## Tech Stack
 
