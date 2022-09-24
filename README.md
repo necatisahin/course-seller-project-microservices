@@ -12,6 +12,7 @@
 - Server
 - Hibernate
 - MySQL
+- Docker
 
 
 ## Postman API Collections
