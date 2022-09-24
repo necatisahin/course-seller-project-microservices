@@ -10,8 +10,7 @@
 - Spring Security ( JWT - Basic Authentication - Authorization )
 - Lombok
 - Angular
-- Eureka Discovery Client
-- Server
+- Eureka Discovery Client Server
 - Hibernate
 - MySQL
 - Docker
